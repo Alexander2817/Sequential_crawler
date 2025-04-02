@@ -1,0 +1,91 @@
+Running Depth 1...
+- Tom%20Hanks
+1
+0
+Time to crawl: 0.179028s
+
+real	0m0.188s
+user	0m0.004s
+sys	0m0.005s
+
+Running Depth 2...
+- Tom%20Hanks
+1
+0
+0
+Time to crawl: 0.170067s
+
+real	0m0.178s
+user	0m0.003s
+sys	0m0.005s
+
+Running Depth 3...
+- Tom%20Hanks
+1
+0
+0
+0
+Time to crawl: 0.180336s
+
+real	0m0.188s
+user	0m0.001s
+sys	0m0.006s
+
+Running Depth 4...
+- Tom%20Hanks
+1
+0
+0
+0
+0
+Time to crawl: 0.179303s
+
+real	0m0.188s
+user	0m0.005s
+sys	0m0.004s
+
+Running Depth 5...
+- Tom%20Hanks
+1
+0
+0
+0
+0
+0
+Time to crawl: 0.174634s
+
+real	0m0.183s
+user	0m0.005s
+sys	0m0.003s
+
+Running Depth 6...
+- Tom%20Hanks
+1
+0
+0
+0
+0
+0
+0
+Time to crawl: 0.183937s
+
+real	0m0.192s
+user	0m0.005s
+sys	0m0.004s
+
+Running Depth 7...
+- Tom%20Hanks
+1
+0
+0
+0
+0
+0
+0
+0
+Time to crawl: 0.177845s
+
+real	0m0.186s
+user	0m0.003s
+sys	0m0.005s
+
